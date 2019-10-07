@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deployed-form/static/css/main.a495efd4.chunk.css",
+    "main.js": "/deployed-form/static/js/main.1b21e65c.chunk.js",
+    "main.js.map": "/deployed-form/static/js/main.1b21e65c.chunk.js.map",
+    "runtime-main.js": "/deployed-form/static/js/runtime-main.2b941fd6.js",
+    "runtime-main.js.map": "/deployed-form/static/js/runtime-main.2b941fd6.js.map",
+    "static/css/2.0624914a.chunk.css": "/deployed-form/static/css/2.0624914a.chunk.css",
+    "static/js/2.9c6b6a37.chunk.js": "/deployed-form/static/js/2.9c6b6a37.chunk.js",
+    "static/js/2.9c6b6a37.chunk.js.map": "/deployed-form/static/js/2.9c6b6a37.chunk.js.map",
+    "index.html": "/deployed-form/index.html",
+    "precache-manifest.59950301f8b7d54ea97e61958d31abda.js": "/deployed-form/precache-manifest.59950301f8b7d54ea97e61958d31abda.js",
+    "service-worker.js": "/deployed-form/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/deployed-form/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.a495efd4.chunk.css.map": "/deployed-form/static/css/main.a495efd4.chunk.css.map",
+    "static/media/img.png": "/deployed-form/static/media/img.25ce5a3e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b941fd6.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.9c6b6a37.chunk.js",
+    "static/css/main.a495efd4.chunk.css",
+    "static/js/main.1b21e65c.chunk.js"
+  ]
+}
